@@ -1,0 +1,14 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="EduSpringBootCloudConfigClientApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+    <option name="ACTIVE_PROFILES" value="profile-a, profile-b" />
+    <envs>
+      <env name="MY_VALUE_3" value="EnvironmentVariable" />
+    </envs>
+    <module name="edu-spring-boot-cloud-config-client" />
+    <option name="PROGRAM_PARAMETERS" value="--my.value1=CLI" />
+    <option name="SPRING_BOOT_MAIN_CLASS" value="com.sbszc.eduspringbootcloudconfigclient.EduSpringBootCloudConfigClientApplication" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>
