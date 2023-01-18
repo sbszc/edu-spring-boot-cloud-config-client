@@ -10,12 +10,12 @@ import java.util.Map;
 
 /**
  * Example to test the overriding properties by layers:
- * cli arguments ->
- * external file ->
- * config service profiles in order ->
- * config service default profile ->
- * profiles in order ->
- * default profile
+ * cli arguments
+ * external file ^
+ * config service profiles in order ^
+ * config service default profile ^
+ * profiles in order ^
+ * default profile ^
  */
 @RestController
 @RefreshScope
